@@ -6,7 +6,7 @@ import (
 
 func main() {
 	ns := GetNutritionalScore(NutritionalData{
-		Energy:              EnergyFromKcal(0),
+		Energy:              EnergyFromKcal(100),
 		Sugars:              SugarGram(10),
 		SaturatedFattyAcids: SaturatedFattyAcids(2),
 		Sodium:              SodiumMilligram(500),
