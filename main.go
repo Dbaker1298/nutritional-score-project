@@ -11,7 +11,7 @@ func main() {
 		SaturatedFattyAcids: SaturatedFattyAcids(2),
 		Sodium:              SodiumMilligram(500),
 		Fruits:              FruitsPercent(60),
-		Fibre:               FibreGram(4),
+		Fibre:               FibreGram(40),
 		Protein:             ProteinGram(2),
 	}, Food)
 
