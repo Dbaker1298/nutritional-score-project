@@ -18,3 +18,5 @@ func main() {
 	fmt.Printf("Nutritional score: %d\n", ns.Value)
 	fmt.Printf("NutriScore: %s\n", ns.GetNutriScore())
 }
+
+// https://learning.oreilly.com/videos/learn-go-by
